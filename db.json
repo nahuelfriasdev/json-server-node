@@ -1,0 +1,73 @@
+{
+  "profesores": [
+    {
+      "nombre": "Marcos",
+      "apellido": "Gonzalez",
+      "materias": [
+        {
+          "nombre": "matematicas"
+        },
+        {
+          "nombre": "analisis matematico"
+        },
+        {
+          "nombre": "algebra"
+        }
+      ],
+      "id": "78fb"
+    },
+    {
+      "id": "3fd1",
+      "nombre": "Ricardo",
+      "apellido": "Farias",
+      "materias": [
+        {
+          "nombre": "literatura I"
+        },
+        {
+          "nombre": "literatura II"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Nahuel",
+      "apellido": "Frias",
+      "promedio": 9.5,
+      "id": "e7f5"
+    },
+    {
+      "nombre": "Franco",
+      "apellido": "Gomez",
+      "promedio": 8.4,
+      "id": "37db"
+    },
+    {
+      "id": "5d12",
+      "nombre": "Sebastian",
+      "apellido": "Canselo",
+      "promedio": 6.5
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "matematica inicial",
+      "duracion": 4,
+      "dificultad": "facil",
+      "id": "85d8"
+    },
+    {
+      "nombre": "analisis introductorio",
+      "duracion": 8,
+      "dificultad": "intermedio",
+      "id": "b265"
+    },
+    {
+      "nombre": "algebra II",
+      "duracion": 12,
+      "dificultad": "alta",
+      "id": "2c14"
+    }
+  ]
+}
